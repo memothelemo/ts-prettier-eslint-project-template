@@ -1,5 +1,5 @@
 {
-  "name": "template-ts-prettier-eslint-project",
+  "name": "ts-prettier-eslint-project-template",
   "version": "1.0.0",
   "description": "",
   "main": "build/index.js",
